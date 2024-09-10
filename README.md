@@ -1,5 +1,6 @@
 # airbnb-host-predictive-model
-TO VIEW THE CODE DOWNLOAD THE HTML FILE
+
+##TO VIEW THE CODE DOWNLOAD THE HTML FILE
 
 This repository contains Python htmls that detail a project predicting Airbnb prices and classifying whether an Airbnb host is likely to be a superhost or not. The repository is divided into two main sections: one for regression (price prediction) and the other for classification (superhost classification).
 
